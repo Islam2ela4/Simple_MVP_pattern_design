@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVP_test</string>
+    <string name="first_name">first name</string>
+    <string name="last_name">last name</string>
+    <string name="email">email</string>
+    <string name="load">load</string>
+    <string name="store">Store</string>
+</resources>
